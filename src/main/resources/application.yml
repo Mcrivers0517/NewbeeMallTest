@@ -21,7 +21,7 @@ project:
   # 项目名称
   name: newbee-mall-plus
   # 上传文件的默认url前缀，根据部署设置自行修改，windows下路径
-  fileUploadPath: D:\\upload\\
+  fileUploadPath: C:\\Users\\wangr\\Desktop\\ZJUT\\course\\2023_2024(2)_SoftwareQualityAssuranceAndTestingTechnology\\newbee-mall-plus\\upload\\
   # 订单未支付超期时间，单位秒
   orderUnpaidOverTime: 300
   # 服务器地址
